@@ -98,7 +98,9 @@ visits twice.
 
 ## See also
 
-[gfa-to-pairwise-paf-rs](https://github.com/cmdcolin/gfa-to-pairwise-paf-rs) is a Rust port with the same flags and byte-identical output, about ten times faster, with prebuilt binaries.
+[gfa-to-pairwise-paf-rs](https://github.com/cmdcolin/gfa-to-pairwise-paf-rs)
+is a Rust port with the same flags and byte-identical output, about ten times
+faster, with prebuilt binaries.
 
 ## Origin
 
