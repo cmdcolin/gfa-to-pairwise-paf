@@ -96,6 +96,10 @@ The fixture is a graph small enough to work every row out by hand: a SNP, an
 indel each way, an inversion, a contig in two W pieces, and a node the reference
 visits twice.
 
+## See also
+
+[gfa-to-pairwise-paf-rs](https://github.com/cmdcolin/gfa-to-pairwise-paf-rs) is a Rust port with the same flags and byte-identical output, about ten times faster, with prebuilt binaries.
+
 ## Origin
 
 Extracted from [jbrowse-components](https://github.com/GMOD/jbrowse-components),
